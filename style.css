@@ -1,0 +1,44 @@
+.countdown-box{
+    position: absolute;
+    top:50%;
+    left:45%;
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px solid skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    /* margin-left: 5px; */
+}
+.hourbox{
+    margin-left: 5px;
+}
+.minbox{
+    margin-left: 5px;
+}
+.secbox{
+    margin-left: 5px;
+}
+.inputDate{
+    position: absolute;
+    top:60%;
+    left: 45%;
+}
+#inputdatestart{
+    height: 20px;
+    width: 150px;
+    border-color: aquamarine ;
+    background-color: aqua;
+    color:white;
+    font-size: 20px;
+
+}
+button{
+    height: 25px;
+    background-color: aqua;
+    border-color: skyblue;
+    color: white;
+}
